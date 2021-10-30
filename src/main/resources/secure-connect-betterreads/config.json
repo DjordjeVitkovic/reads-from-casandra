@@ -1,0 +1,16 @@
+{
+  "host": "7f99626a-93b0-4e7f-ad48-7cad300b07a2-europe-west1.db.astra.datastax.com",
+  "port": 29080,
+  "cql_port": 29042,
+  "keyspace": "main",
+  "localDC": "europe-west1",
+  "caCertLocation": "./ca.crt",
+  "keyLocation": "./key",
+  "certLocation": "./cert",
+  "keyStoreLocation": "./identity.jks",
+  "keyStorePassword": "e3dtbB7XaDIKol401",
+  "trustStoreLocation": "./trustStore.jks",
+  "trustStorePassword": "stxm21OaoF863PqTS",
+  "csvLocation": "./data",
+  "pfxCertPassword": "URyYA5jpIv7l9r1B3"
+}

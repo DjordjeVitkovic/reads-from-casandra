@@ -33,5 +33,5 @@ build/
 .vscode/
 
 ### Secure Bundle ###
-/src/main/resources/secure-connect-betterreads.zip
-/src/main/resources/application.yml
+src/main/resources/secure-connect-betterreads.zip
+src/main/resources/application.yml
